@@ -1,7 +1,6 @@
 # Hi, I'm Rashi 👋
 
-Computer Science student focused on **open source, systems, and software engineering**.
-Currently contributing to large open-source projects and preparing for GSoC.**
+Currently contributing to large open-source projects and preparing for GSoC.
 
 ---
 
@@ -16,10 +15,7 @@ Currently contributing to large open-source projects and preparing for GSoC.**
 
 ## Skills
 
-![C++](https://img.shields.io/badge/C++-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Git](https://img.shields.io/badge/Git-red)
-![Linux](https://img.shields.io/badge/Linux-black)
+C++ • JavaScript • Git • Linux • Problem Solving • HTML • CSS
 
 ---
 
@@ -40,12 +36,7 @@ Currently contributing to large open-source projects and preparing for GSoC.**
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi-cse&show_icons=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-cse&layout=compact&cache_seconds=86400" height="165"/>
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rashi-cse&theme=tokyonight" />
