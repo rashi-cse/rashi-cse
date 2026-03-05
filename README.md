@@ -1,12 +1,13 @@
 # Hi, I'm Rashi 👋
 
-Computer Science student interested in **open source, systems, and software engineering.**
+Computer Science student focused on **open source, systems, and software engineering**.
+Currently contributing to large open-source projects and preparing for GSoC.**
 
 ---
 
 ## Current Work
 
-* Contributing to Music Blocks (Sugar Labs)
+* Contributing to [Music Blocks](https://github.com/sugarlabs/musicblocks) (Sugar Labs)
 * Exploring rendering architecture and CreateJS usage in the codebase
 * Preparing for Google Summer of Code (GSoC)
 * Practicing Data Structures and Algorithms in C++
@@ -15,7 +16,10 @@ Computer Science student interested in **open source, systems, and software engi
 
 ## Skills
 
-C++ • JavaScript • Git • Linux • Problem Solving • HTML • CSS
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Git](https://img.shields.io/badge/Git-red)
+![Linux](https://img.shields.io/badge/Linux-black)
 
 ---
 
@@ -24,7 +28,7 @@ C++ • JavaScript • Git • Linux • Problem Solving • HTML • CSS
 ### Music Blocks (Sugar Labs)
 
 * Added **CreateJS usage audit documentation** for rendering migration planning
-* Contributing fixes and improvements to the project
+* Contributing bug fixes and improvements to the codebase
 * Exploring rendering architecture and dependency usage
 
 ---
@@ -39,15 +43,10 @@ C++ • JavaScript • Git • Linux • Problem Solving • HTML • CSS
 ## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rashi-cse&show_icons=true&theme=tokyonight" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-cse&layout=compact&theme=tokyonight" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rashi-cse&show_icons=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-cse&layout=compact&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rashi-cse&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=rashi-cse&theme=tokyonight" />
 </p>
