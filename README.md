@@ -25,3 +25,11 @@ Music Blocks (Sugar Labs)
 
 * Contribute meaningfully to large open-source projects
 * Improve systems and software engineering skills
+
+## GitHub Stats
+
+![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashi-cse&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi-cse&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rashi-cse&theme=tokyonight)
