@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rashi 👋
+Open Source Contributor @ Sugar Labs
+Computer Science student interested in open source and systems.
 
-<!--
-**rashi-cse/rashi-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Work
+- Contributing to Music Blocks (Sugar Labs)
+- Preparing for GSoC 2026
+- Learning Data Structures and Algorithms in C++
 
-Here are some ideas to get you started:
+## Skills
+C++ • JavaScript • Git • Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Contributions
+- Music Blocks
+  - Documentation: CreateJS usage audit
+  - Bug fixes and improvements
